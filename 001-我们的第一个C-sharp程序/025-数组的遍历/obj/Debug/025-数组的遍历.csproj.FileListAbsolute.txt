@@ -1,0 +1,6 @@
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\025-数组的遍历\bin\Debug\025-数组的遍历.exe.config
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\025-数组的遍历\bin\Debug\025-数组的遍历.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\025-数组的遍历\bin\Debug\025-数组的遍历.pdb
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\025-数组的遍历\obj\Debug\025-数组的遍历.csproj.CoreCompileInputs.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\025-数组的遍历\obj\Debug\025-数组的遍历.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\025-数组的遍历\obj\Debug\025-数组的遍历.pdb

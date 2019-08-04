@@ -1,0 +1,6 @@
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\020-goto语句\bin\Debug\020-goto语句.exe.config
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\020-goto语句\bin\Debug\020-goto语句.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\020-goto语句\bin\Debug\020-goto语句.pdb
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\020-goto语句\obj\Debug\020-goto语句.csproj.CoreCompileInputs.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\020-goto语句\obj\Debug\020-goto语句.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\020-goto语句\obj\Debug\020-goto语句.pdb

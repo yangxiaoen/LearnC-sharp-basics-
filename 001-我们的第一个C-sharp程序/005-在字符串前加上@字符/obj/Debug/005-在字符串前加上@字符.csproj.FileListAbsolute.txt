@@ -1,0 +1,6 @@
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\005-在字符串前加上@字符\bin\Debug\005-在字符串前加上@字符.exe.config
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\005-在字符串前加上@字符\bin\Debug\005-在字符串前加上@字符.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\005-在字符串前加上@字符\bin\Debug\005-在字符串前加上@字符.pdb
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\005-在字符串前加上@字符\obj\Debug\005-在字符串前加上@字符.csproj.CoreCompileInputs.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\005-在字符串前加上@字符\obj\Debug\005-在字符串前加上@字符.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\005-在字符串前加上@字符\obj\Debug\005-在字符串前加上@字符.pdb

@@ -1,0 +1,7 @@
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\002-变量\bin\Debug\002-变量.exe.config
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\002-变量\bin\Debug\002-变量.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\002-变量\bin\Debug\002-变量.pdb
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\002-变量\obj\Debug\002-变量.csprojResolveAssemblyReference.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\002-变量\obj\Debug\002-变量.csproj.CoreCompileInputs.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\002-变量\obj\Debug\002-变量.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\002-变量\obj\Debug\002-变量.pdb

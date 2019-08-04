@@ -1,0 +1,7 @@
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\009-获取键盘的字符串\bin\Debug\009-获取键盘的字符串.exe.config
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\009-获取键盘的字符串\bin\Debug\009-获取键盘的字符串.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\009-获取键盘的字符串\bin\Debug\009-获取键盘的字符串.pdb
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\009-获取键盘的字符串\obj\Debug\009-获取键盘的字符串.csprojResolveAssemblyReference.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\009-获取键盘的字符串\obj\Debug\009-获取键盘的字符串.csproj.CoreCompileInputs.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\009-获取键盘的字符串\obj\Debug\009-获取键盘的字符串.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\009-获取键盘的字符串\obj\Debug\009-获取键盘的字符串.pdb

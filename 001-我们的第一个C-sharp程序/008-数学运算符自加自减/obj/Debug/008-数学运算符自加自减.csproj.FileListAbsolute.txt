@@ -1,0 +1,7 @@
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\008-数学运算符自加自减\bin\Debug\008-数学运算符自加自减.exe.config
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\008-数学运算符自加自减\bin\Debug\008-数学运算符自加自减.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\008-数学运算符自加自减\bin\Debug\008-数学运算符自加自减.pdb
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\008-数学运算符自加自减\obj\Debug\008-数学运算符自加自减.csprojResolveAssemblyReference.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\008-数学运算符自加自减\obj\Debug\008-数学运算符自加自减.csproj.CoreCompileInputs.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\008-数学运算符自加自减\obj\Debug\008-数学运算符自加自减.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\008-数学运算符自加自减\obj\Debug\008-数学运算符自加自减.pdb

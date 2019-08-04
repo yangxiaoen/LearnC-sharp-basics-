@@ -1,0 +1,7 @@
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\028-函数的定义\bin\Debug\028-函数的定义.exe.config
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\028-函数的定义\bin\Debug\028-函数的定义.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\028-函数的定义\bin\Debug\028-函数的定义.pdb
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\028-函数的定义\obj\Debug\028-函数的定义.csprojResolveAssemblyReference.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\028-函数的定义\obj\Debug\028-函数的定义.csproj.CoreCompileInputs.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\028-函数的定义\obj\Debug\028-函数的定义.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\028-函数的定义\obj\Debug\028-函数的定义.pdb

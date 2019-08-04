@@ -1,0 +1,6 @@
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\036-练习4-4\bin\Debug\036-练习4-4.exe.config
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\036-练习4-4\bin\Debug\036-练习4-4.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\036-练习4-4\bin\Debug\036-练习4-4.pdb
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\036-练习4-4\obj\Debug\036-练习4-4.csproj.CoreCompileInputs.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\036-练习4-4\obj\Debug\036-练习4-4.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\036-练习4-4\obj\Debug\036-练习4-4.pdb

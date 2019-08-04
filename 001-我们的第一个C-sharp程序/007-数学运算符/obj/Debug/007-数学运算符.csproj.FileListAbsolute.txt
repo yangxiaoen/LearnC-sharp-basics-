@@ -1,0 +1,7 @@
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\007-数学运算符\bin\Debug\007-数学运算符.exe.config
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\007-数学运算符\bin\Debug\007-数学运算符.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\007-数学运算符\bin\Debug\007-数学运算符.pdb
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\007-数学运算符\obj\Debug\007-数学运算符.csprojResolveAssemblyReference.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\007-数学运算符\obj\Debug\007-数学运算符.csproj.CoreCompileInputs.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\007-数学运算符\obj\Debug\007-数学运算符.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\007-数学运算符\obj\Debug\007-数学运算符.pdb

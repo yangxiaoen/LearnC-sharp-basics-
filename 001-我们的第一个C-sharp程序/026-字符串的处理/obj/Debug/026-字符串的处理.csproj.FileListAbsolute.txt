@@ -1,0 +1,6 @@
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\026-字符串的处理\bin\Debug\026-字符串的处理.exe.config
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\026-字符串的处理\bin\Debug\026-字符串的处理.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\026-字符串的处理\bin\Debug\026-字符串的处理.pdb
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\026-字符串的处理\obj\Debug\026-字符串的处理.csproj.CoreCompileInputs.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\026-字符串的处理\obj\Debug\026-字符串的处理.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\026-字符串的处理\obj\Debug\026-字符串的处理.pdb

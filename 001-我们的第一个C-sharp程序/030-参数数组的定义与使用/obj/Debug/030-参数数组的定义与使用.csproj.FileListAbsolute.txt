@@ -1,0 +1,7 @@
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\030-参数数组的定义与使用\bin\Debug\030-参数数组的定义与使用.exe.config
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\030-参数数组的定义与使用\bin\Debug\030-参数数组的定义与使用.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\030-参数数组的定义与使用\bin\Debug\030-参数数组的定义与使用.pdb
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\030-参数数组的定义与使用\obj\Debug\030-参数数组的定义与使用.csprojResolveAssemblyReference.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\030-参数数组的定义与使用\obj\Debug\030-参数数组的定义与使用.csproj.CoreCompileInputs.cache
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\030-参数数组的定义与使用\obj\Debug\030-参数数组的定义与使用.exe
+D:\StudyC#\rumen\001-我们的第一个C-sharp程序\030-参数数组的定义与使用\obj\Debug\030-参数数组的定义与使用.pdb
